@@ -12,25 +12,22 @@ BookMart is a Full-stack application designed to help book lovers share their fa
 * [React.js](https://reactjs.org/) - MVC front-end framework 
 * [Node.js](https://nodejs.org/en/) - JavaScript runtime
 * [Bootstrap](https://bootstap.com/) - CSS framework
-* [Auth0](https://auth0.com/) - Authentication platform
 
-Technologies Used
+Other Technologies Used
 
     Front-end
     *Bootstrap
     
+    Third-Party API 
+    *Google Books API
+    
     Back-end
-    *Nodejs
-    *Express
     *Sequelize
     *Passport
     *Bcryptjs
     *Pusher
     *Stripe
     *Nodemon
-
-    Database 
-    *MySQL
 
     Testing
     *Travis CI
