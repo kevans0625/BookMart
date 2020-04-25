@@ -40,6 +40,12 @@ Technologies Used
     *Heroku
 
 
+## User Story
+
+AS A [bookworm], 
+I WANT [to exchange books and book knowledge with fellow Bookworms],
+SO THAT [I can meet other Bookworms and learn about new books].
+
 
 ## Authors
 See the list of [contributors](https://github.com/kevans0625/project-2/graphs/contributors) who participated in this project along with individual commit history.
