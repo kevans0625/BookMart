@@ -39,6 +39,6 @@ Technologies Used
     Deployment
     *Heroku
 
-License & Copyright 
 
-© Leo La, Kristin Evans, Thipsavanh Douangboupha, Claude Ndamushimye; UT Austin Coding Bootcamp 2020 
+## Authors
+See the list of [contributors](https://github.com/kevans0625/project-2/graphs/contributors) who participated in this project along with individual commit history.
