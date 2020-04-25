@@ -46,3 +46,11 @@ SO THAT [I can meet other Bookworms and learn about new books].
 
 ## Authors
 See the list of [contributors](https://github.com/kevans0625/project-2/graphs/contributors) who participated in this project along with individual commit history.
+
+## License
+This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md).
+
+
+- - -
+© 2020  All Rights Reserved.
+
