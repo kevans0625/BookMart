@@ -4,9 +4,17 @@ Description
 
 BookMart is a site that allows you to search for your favorite books and engage in live chats about any books related discussion. If you sign up, you will have the ability to participate in live chats with other fellow bookworms, as well as adding books to your wishlist 
 
+## Live Preview
+[Try it yourself!](https://evening-eyrie-42464.herokuapp.com/) 
 
-Live Preview
-    *https://evening-eyrie-42464.herokuapp.com/
+## Built With
+
+* [MySQL](https://www.mysql.com/) - SQL Database
+* [Express.js](https://expressjs.com/) - Node.js framework
+* [React.js](https://reactjs.org/) - MVC front-end framework 
+* [Node.js](https://nodejs.org/en/) - JavaScript runtime
+* [Bootstrap](https://bootstap.com/) - CSS framework
+* [Auth0](https://auth0.com/) - Authentication platform
 
 Technologies Used
 
@@ -33,16 +41,6 @@ Technologies Used
     Deployment
     *Heroku
 
-
-
-## Built With
-
-* [MySQL](https://www.mysql.com/) - SQL Database
-* [Express.js](https://expressjs.com/) - Node.js framework
-* [React.js](https://reactjs.org/) - MVC front-end framework 
-* [Node.js](https://nodejs.org/en/) - JavaScript runtime
-* [Bootstrap](https://bootstap.com/) - CSS framework
-* [Auth0](https://auth0.com/) - Authentication platform
 
 
 ## Authors
