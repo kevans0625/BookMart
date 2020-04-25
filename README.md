@@ -8,12 +8,6 @@ BookMart is a site that allows you to search for your favorite books and engage 
 Live Preview
     *https://evening-eyrie-42464.herokuapp.com/
 
-Author(s)
-    *Leo La
-    *Kristan Evans
-    *Thipsavanh Douangboupha
-    *Claude Ndamushimye
-
 Technologies Used
 
     Front-end
@@ -38,6 +32,17 @@ Technologies Used
 
     Deployment
     *Heroku
+
+
+
+## Built With
+
+* [MySQL](https://www.mysql.com/) - SQL Database
+* [Express.js](https://expressjs.com/) - Node.js framework
+* [React.js](https://reactjs.org/) - MVC front-end framework 
+* [Node.js](https://nodejs.org/en/) - JavaScript runtime
+* [Bootstrap](https://bootstap.com/) - CSS framework
+* [Auth0](https://auth0.com/) - Authentication platform
 
 
 ## Authors
