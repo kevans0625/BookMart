@@ -1,8 +1,6 @@
 # The BookMart
 
-Description
-
-BookMart is a site that allows you to search for your favorite books and engage in live chats about any books related discussion. If you sign up, you will have the ability to participate in live chats with other fellow bookworms, as well as adding books to your wishlist 
+BookMart is a Full-stack application designed to help book lovers share their favorite books via a virtual library and engage in discussion through live chats. 
 
 ## Live Preview
 [Try it yourself!](https://evening-eyrie-42464.herokuapp.com/) 
