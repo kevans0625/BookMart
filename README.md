@@ -1,9 +1,11 @@
 # The BookMart
 
-BookMart is a Full-stack application designed to help book lovers share their favorite books via a virtual library and engage in discussion through live chats. 
+BookMart is a Full-stack application designed to help book lovers share their favorite books via a virtual library and engage in discussion through live chats.
 
 ## Live Preview
 [Try it yourself!](https://evening-eyrie-42464.herokuapp.com/) 
+
+ [Homepage](BookMartHomepage.png)
 
 ## Built With
 
