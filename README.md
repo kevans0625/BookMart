@@ -5,7 +5,7 @@ BookMart is a Full-stack application designed to help book lovers share their fa
 ## Live Preview
 [Try it yourself!](https://evening-eyrie-42464.herokuapp.com/) 
 
- [Homepage](BookMartHomepage.png)
+ ![Homepage](BookMartHomepage.png)
 
 ## Built With
 
