@@ -1,5 +1,4 @@
 {
-
     "name": "1-Passport-Example",
     "version": "1.0.0",
     "description": "A virtual book club for booklovers.",
@@ -8,7 +7,6 @@
         "test": "npm run lint",
         "start": "node server.js",
         "startdev": "nodemon server.js",
-
         "lint": "eslint --quiet .",
         "fix": "eslint --fix .",
         "watch": "nodemon server.js"
