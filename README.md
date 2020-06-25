@@ -3,9 +3,10 @@
 BookMart is a Full-stack application designed to help book lovers share their favorite books via a virtual library and engage in discussion through live chats.
 
 ## Live Preview
-[Try it yourself!](https://evening-eyrie-42464.herokuapp.com/) 
 
- [Homepage](BookMartHomepage.png)
+
+ ![Homepage](BookMartHomepage.png)
+ [Try it yourself!](https://evening-eyrie-42464.herokuapp.com/) 
 
 ## Built With
 
@@ -48,7 +49,37 @@ SO THAT [I can meet other Bookworms and learn about new books].
 
 ## Authors
 See the list of [contributors](https://github.com/kevans0625/project-2/graphs/contributors) who participated in this project along with individual commit history.
+### Install
 
+Some basic Git commands are:
+
+```
+$ git clone https://github.com/kevans0625/BookMart.git
+$ cd project
+$ npm install
+
+```
+
+### Simple build for production
+
+```
+$ npm run build
+
+```
+
+### Run the application for development
+
+```
+$ npm run start:dev
+
+```
+
+### Run the application for production
+
+```
+$ npm run start:prod
+
+```
 ## License
 This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md).
 
